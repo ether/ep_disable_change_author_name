@@ -1,1 +1,45 @@
-{"name":"ep_disable_change_author_name","description":"A plugin to stop users from being able to change their names","version":"0.0.13","author":{"name":"johnyma22","email":"john@mclear.co.uk","url":"John McLear"},"contributors":[],"dependencies":{},"engines":{"node":">= 0.4.1"},"_id":"ep_disable_change_author_name@0.0.2","dist":{"shasum":"7a668717f83a7027ecd5316aa44833c4cc105ee8","tarball":"http://registry.npmjs.org/ep_disable_change_author_name/-/ep_disable_change_author_name-0.0.2.tgz"},"_from":"ep_disable_change_author_name@*","_resolved":"https://registry.npmjs.org/ep_disable_change_author_name/-/ep_disable_change_author_name-0.0.2.tgz","_npmVersion":"1.4.6","_npmUser":{"name":"johnyma22","email":"john@mclear.co.uk"},"maintainers":[{"name":"johnyma22","email":"john@mclear.co.uk"}],"directories":{},"_shasum":"7a668717f83a7027ecd5316aa44833c4cc105ee8","repository":{"repository":{"type":"git","url":"git://github.com/johnmclear/ep_disable_change_author_name.git"}}}
+{
+  "name": "ep_disable_change_author_name",
+  "description": "A plugin to stop users from being able to change their names",
+  "version": "0.0.13",
+  "author": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk",
+    "url": "John McLear"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.4.1"
+  },
+  "_id": "ep_disable_change_author_name@0.0.2",
+  "dist": {
+    "shasum": "7a668717f83a7027ecd5316aa44833c4cc105ee8",
+    "tarball": "http://registry.npmjs.org/ep_disable_change_author_name/-/ep_disable_change_author_name-0.0.2.tgz"
+  },
+  "_from": "ep_disable_change_author_name@*",
+  "_resolved": "https://registry.npmjs.org/ep_disable_change_author_name/-/ep_disable_change_author_name-0.0.2.tgz",
+  "_npmVersion": "1.4.6",
+  "_npmUser": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk"
+  },
+  "maintainers": [
+    {
+      "name": "johnyma22",
+      "email": "john@mclear.co.uk"
+    }
+  ],
+  "directories": {},
+  "_shasum": "7a668717f83a7027ecd5316aa44833c4cc105ee8",
+  "repository": {
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/johnmclear/ep_disable_change_author_name.git"
+    }
+  },
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
+  }
+}

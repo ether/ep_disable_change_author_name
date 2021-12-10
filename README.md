@@ -1,3 +1,5 @@
+![Publish Status](https://github.com/ether/ep_disable_change_author_name/workflows/Node.js%20Package/badge.svg) ![Backend Tests Status](https://github.com/ether/ep_disable_change_author_name/workflows/Backend%20tests/badge.svg)
+
 # ep_disable_change_author_name
 
 TODO: Describe the plugin.

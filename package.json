@@ -1,14 +1,13 @@
 {
   "name": "ep_disable_change_author_name",
   "description": "A plugin to stop users from being able to change their names",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "author": {
     "name": "johnyma22",
     "email": "john@mclear.co.uk",
     "url": "John McLear"
   },
   "contributors": [],
-  "dependencies": {},
   "engines": {
     "node": ">=18.0.0"
   },
@@ -42,9 +41,9 @@
     "url": "https://etherpad.org/"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^8.57.1",
     "eslint-config-etherpad": "^4.0.4",
-    "typescript": "^5.4.2"
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "lint": "eslint .",

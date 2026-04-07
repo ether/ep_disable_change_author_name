@@ -9,7 +9,7 @@ TODO: Describe the plugin.
 From the Etherpad working directory, run:
 
 ```shell
-npm install --no-save --legacy-peer-deps ep_disable_change_author_name
+pnpm run plugins install ep_disable_change_author_name
 ```
 
 Or, install from Etherpad's `/admin/plugins` page.

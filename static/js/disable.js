@@ -9,4 +9,5 @@ exports.postAceInit = (hookName, args, cb) => {
     #myusernameedit{background:lightgrey !important;}
     #myusernameedit:hover{background:lightgrey !important;color:#333 !important}
   </style>`);
+  return cb();
 };

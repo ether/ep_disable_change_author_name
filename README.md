@@ -1,6 +1,6 @@
 ![Publish Status](https://github.com/ether/ep_disable_change_author_name/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_disable_change_author_name/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_disable_change_author_name/actions/workflows/test-and-release.yml)
 
-# ep_disable_change_author_name
+# Disable Author Name Changes in Etherpad
 
 TODO: Describe the plugin.
 

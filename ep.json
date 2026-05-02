@@ -1,4 +1,5 @@
 {
+  "disables": ["@feature:username"],
   "parts":[
     {
       "name": "disableNameInputbox",

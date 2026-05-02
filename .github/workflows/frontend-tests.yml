@@ -69,4 +69,10 @@ jobs:
           done
           cd src
           pnpm exec playwright install chromium --with-deps
-          pnpm run test-ui --project=chromium
+          # Use the declared-disables helper instead of plain test-ui:
+          # ep.json declares `disables: ["@feature:username"]`, so the
+          # helper runs two passes — regression (everything not tagged
+          # @feature:username must pass) + honesty (every test tagged
+          # @feature:username must FAIL because the plugin disables
+          # username editing). See doc/PLUGIN_FEATURE_DISABLES.md.
+          ../bin/run-frontend-tests-with-disables.sh -- --project=chromium

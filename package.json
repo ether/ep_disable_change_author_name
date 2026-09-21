@@ -9,7 +9,7 @@
   },
   "contributors": [],
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=22.0.0"
   },
   "dist": {
     "shasum": "7a668717f83a7027ecd5316aa44833c4cc105ee8",
